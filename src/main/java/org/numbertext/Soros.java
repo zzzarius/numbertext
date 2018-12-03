@@ -4,9 +4,9 @@
 
 package org.numbertext;
 
-import java.util.regex.Pattern;
-import java.util.regex.Matcher;
 import java.util.ArrayList;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class Soros {
   private ArrayList<Pattern> patterns = new ArrayList<Pattern>();
